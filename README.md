@@ -4,9 +4,7 @@ Control your Eight Sleep mattress from your wrist. Built for the Pebble
 Time 2 (emery, 200×228 color), designed around one use case: nudging the
 bed temperature at 3am without reaching for your phone.
 
-| Launch | Cooling | Warming | Alarm | Snoozed | Off | First run | Launcher |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/splash.png" width="90" alt="Launch"> | <img src="screenshots/cool.png" width="90" alt="Cooling"> | <img src="screenshots/warm.png" width="90" alt="Warming"> | <img src="screenshots/alarm.png" width="90" alt="Alarm ringing"> | <img src="screenshots/snoozed.png" width="90" alt="Snoozed"> | <img src="screenshots/off.png" width="90" alt="Off"> | <img src="screenshots/setup.png" width="90" alt="First run"> | <img src="screenshots/launcher.png" width="90" alt="Launcher glance"> |
+<img src="screenshots/splash.png" width="90" alt="Launch"> <img src="screenshots/cool.png" width="90" alt="Cooling"> <img src="screenshots/warm.png" width="90" alt="Warming"> <img src="screenshots/alarm.png" width="90" alt="Alarm ringing"> <img src="screenshots/snoozed.png" width="90" alt="Snoozed"> <img src="screenshots/off.png" width="90" alt="Off"> <img src="screenshots/setup.png" width="90" alt="First run"> <img src="screenshots/launcher.png" width="90" alt="Launcher glance">
 
 ## What it does
 
