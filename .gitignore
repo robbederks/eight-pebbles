@@ -1,0 +1,11 @@
+# Pebble build output
+build/
+.lock-waf*
+
+# Dependencies (restored by `pebble package install` / npm)
+node_modules/
+
+# Local tooling state
+.claude/
+__pycache__/
+*.pyc

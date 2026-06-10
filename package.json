@@ -1,0 +1,84 @@
+{
+  "name": "eight-pebbles",
+  "author": "Robbe Derks",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "@rebble/clay": "^1.0.10"
+  },
+  "pebble": {
+    "displayName": "Eight Pebbles",
+    "uuid": "5634ff66-d4a7-407f-a2eb-9c5dc7b1e926",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Cmd",
+      "Seq",
+      "Level",
+      "DeviceLevel",
+      "State",
+      "Phase",
+      "Unit",
+      "Scale",
+      "SideName",
+      "Error",
+      "Configured",
+      "Haptics",
+      "Alarm",
+      "Working",
+      "Email",
+      "Password",
+      "SideOverride",
+      "SnoozeMin"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "font",
+          "name": "FONT_BIG_64",
+          "file": "fonts/Comfortaa-Bold.ttf",
+          "characterRegex": "[-+0-9°]"
+        },
+        {
+          "type": "bitmap",
+          "name": "ICON_PLUS",
+          "file": "images/icon_plus.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "ICON_MINUS",
+          "file": "images/icon_minus.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "ICON_POWER",
+          "file": "images/icon_power.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "ICON_ALARM",
+          "file": "images/icon_alarm.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_MENU_ICON",
+          "file": "images/menu_icon.png",
+          "menuIcon": true
+        }
+      ]
+    }
+  }
+}
