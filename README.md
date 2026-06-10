@@ -42,10 +42,11 @@ bed temperature at 3am without reaching for your phone.
 
 ## Install
 
-1. Grab `eight-pebbles.pbw` from the
-   [Releases](../../releases) page (or build it yourself, below) and
-   sideload it with the Pebble phone app, or run
-   `pebble install --phone <ip>` from this directory.
+1. Install it from the
+   [Pebble appstore](https://apps.repebble.com/b91051fbb0564e9abd2d5a6f) —
+   or grab `eight-pebbles.pbw` from the [Releases](../../releases) page
+   (or build it yourself, below) and sideload it with the Pebble phone
+   app, or run `pebble install --phone <ip>` from this directory.
 2. Open the app's **Settings** page in the Pebble phone app and log in with
    your Eight Sleep email and password. Credentials stay on the phone
    (stored in the app's local storage and sent only to Eight Sleep's auth
